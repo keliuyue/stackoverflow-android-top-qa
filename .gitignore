@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/compiler.xml
+.idea/copyright/
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/stackoverflow-android-top-qa.iml
+.idea/workspace.xml
