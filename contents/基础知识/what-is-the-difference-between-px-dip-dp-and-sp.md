@@ -2,7 +2,7 @@
 
 ### 回答：
 #### 采纳答案： 
-可以通过[Android Developer Documentation](https://developer.android.com/guide/topics/resources/more-resources.html#Dimension)了解到[
+可以通过[Android Developer Documentation](https://developer.android.com/guide/topics/resources/more-resources.html#Dimension)了解到
 1. **px**
 像素 - 对应屏幕上的像素。
 2. **in**

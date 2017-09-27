@@ -11,3 +11,5 @@ Android开发工具（ADT）9.0.0（现在已经不支持）（或之后）有�
 ![](https://i.stack.imgur.com/Ml9Cd.png)
 
 也可以通过这个链接 [提高Android模拟器速度](https://jolicode.com/blog/speed-up-your-android-emulator)
+
+### [StackOverflow原文链接](https://stackoverflow.com/questions/1554099/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator) 
