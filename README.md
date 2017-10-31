@@ -19,7 +19,15 @@
 
 1. [为什么Android模拟器的速度那么慢？如何提高Android模拟器的速度？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator.md)
 
+> 常用控件
 
+1. [在Activity启动后，如何使EditText停止获取焦点](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%B8%B8%E7%94%A8%E6%8E%A7%E4%BB%B6/stop-edittext-from-gaining-focus-at-activity-startup.md)
+
+> 系统相关
+
+1. [如何关闭或者隐藏Android软键盘?](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/close-hide-the-android-soft-keyboard.md)
+
+2. [Android设备的ID是不是唯一的，使用java有什么简单的方法可以获取？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/is-there-a-unique-android-device-id.md)
 
 ----
 #### 未翻译
