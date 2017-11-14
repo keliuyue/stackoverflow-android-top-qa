@@ -1,7 +1,7 @@
 # stackoverflow-android-top-qa
 
 
-#### 对StackOverflow上关于Android相关问题投票数前100进行翻译，欢迎star。
+#### 对StackOverflow上关于Android相关问题投票数前100进行翻译，欢迎star，欢迎大家一起翻译。
 
 ##### 为什么选择StackOverflow？
 
@@ -10,6 +10,8 @@
 3. StackOverflow还是一个语言学校，各种各样的语言让你应接不暇
 4. StackOverflow也是一个可以提高沟通能力和总结能力的地方，可以更好地与他人进行沟通，可以更好地提出自己的问题，可以更好地回答别人的问题
 
+####  [翻译目录](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/%E7%9B%AE%E5%BD%95.md)
+
 #### 已翻译文章
 > 基础知识
 
@@ -17,6 +19,7 @@
 
 2. [如何获取屏幕尺寸而且以像素为单位？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/get-screen-dimensions-in-pixels.md)
 
+3. [Android中Context是什么？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/what-is-context-on-android.md)
 > 开发环境
 
 1. [为什么Android模拟器的速度那么慢？如何提高Android模拟器的速度？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator.md)
@@ -30,6 +33,8 @@
 1. [在Activity启动后，如何使EditText停止获取焦点](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%B8%B8%E7%94%A8%E6%8E%A7%E4%BB%B6/stop-edittext-from-gaining-focus-at-activity-startup.md)
 
 2. [如何ListView图片延迟加载？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%B8%B8%E7%94%A8%E6%8E%A7%E4%BB%B6/lazy-load-of-images-in-listview.md)
+
+3. [在Android中，如何使TextView水平并垂直居中？](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E5%B8%B8%E7%94%A8%E6%8E%A7%E4%BB%B6/how-do-i-center-text-horizontally-and-vertically-in-a-textview-on-android.md)
 > 系统相关
 
 1. [如何关闭或者隐藏Android软键盘?](https://github.com/keliuyue/stackoverflow-android-top-qa/blob/master/contents/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/close-hide-the-android-soft-keyboard.md)
